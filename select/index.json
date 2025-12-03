@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "誰かの彼女になっても",
+  "base_artist": "UNFAIR RULE",
+  "createdAt": "2025-12-03T14:18:42.874148Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "誰かの彼女になっても",
+      "artist": "UNFAIR RULE",
+      "has_synced": false,
+      "path": "select/pl_01_誰かの彼女になっても_UNFAIR_RULE.txt"
+    }
+  ]
+}
